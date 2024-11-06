@@ -1,3 +1,4 @@
 __pycache__/
 .venv
 API/__pycache__/
+API/.pytest_cache/
